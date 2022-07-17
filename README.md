@@ -4,6 +4,7 @@
 	libft
 </h1>
  <p align="center">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/nach131/libft?style=social">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nach131/libft">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nach131/libft">
 <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/nach131/libft/src">
