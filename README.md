@@ -4,9 +4,9 @@
 	libft
 </h1>
  <p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nach131/42Barcelona">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nach131/42Barcelona">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nach131/42Barcelona">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nach131/libft">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nach131/libft">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nach131/libft">
 <img alt="license-MIT" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
