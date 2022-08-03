@@ -4,9 +4,9 @@
 name: Node.js CI
 
 # name: Do things every 5 minutes
-on:
-  schedule:
-    - cron: "*/5 * * * *"
+on: push
+  #schedule:
+   # - cron: "*/5 * * * *"
 
 jobs:
   build:
