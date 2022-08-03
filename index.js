@@ -19,6 +19,9 @@ async function getData(url){
   return (res.data.count);
 }
 
+console.log('${{ secrets.AUTH }}')
+console.log(`${{ secrets.AUTH }}`)
+
 // const TOTAL = "%{{total_views}}%"
 
 (async()=>{
