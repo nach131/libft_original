@@ -10,7 +10,7 @@ async function getData(url){
 		url: url,
 		headers: { 
 			// 'Authorization': 'Basic bmFjaDEzMTpnaHBfY3hMT0E2NFM5TGtqZURIV1lWUzFSWkh1UENZbGFLMFc0RGJ0'
-			'Authorization': `${{ secrets.AUTH}}`
+			'Authorization': `${{ secrets.AUTH }}`
 		}
 	};
 	const res = await axios(config)
