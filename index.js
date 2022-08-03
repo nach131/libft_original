@@ -1,7 +1,6 @@
 const fs = require('fs').promises
 const axios = require('axios');
-
-
+require('dotenv').config()
 
 async function getData(url){
 
@@ -9,8 +8,7 @@ async function getData(url){
 		method: 'get',
 		url: url,
 		headers: { 
-			// 'Authorization': 'Basic bmFjaDEzMTpnaHBfY3hMT0E2NFM5TGtqZURIV1lWUzFSWkh1UENZbGFLMFc0RGJ0'
-			'Authorization': '${{ secrets.AUTH }}'
+			'Authorization': process.env.SECRET_KEY
 		}
 	};
 	const res = await axios(config)
@@ -18,11 +16,6 @@ async function getData(url){
 	// console.log(res.data.count)
   return (res.data.count);
 }
-
-console.log('${{ secrets.AUTH }}')
-console.log(`${{ secrets.AUTH }}`)
-
-// const TOTAL = "%{{total_views}}%"
 
 (async()=>{
 	const views = await getData('https://api.github.com/repos/nach131/libft/traffic/views');
