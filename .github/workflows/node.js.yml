@@ -29,5 +29,5 @@ jobs:
         git config user.name nach131
         git config user.email nacho.mota@gmail.com
         git add .
-        git commit -m "generated"
+        git commit -m "generated with Actions"
         git push
