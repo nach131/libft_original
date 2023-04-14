@@ -16,6 +16,10 @@
 <img alt="license-MIT" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
-<h1 align="center">
+<span align="center">
 
-![libft](https://github.com/nach131/42Barcelona/blob/main/images/125.png)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nach131.libft_original&left_color=green&right_color=blue)
+
+![125](https://github.com/nach131/42Barcelona/blob/main/images/125.png)
+
+</span>
