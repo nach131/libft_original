@@ -7,7 +7,7 @@
 
 <!-- buy me a coffee if you want to know how -->
  <p align="center">
-<img alt="total-views" src="https://img.shields.io/badge/views-26-blue">
+<img alt="total-views" src="https://img.shields.io/badge/views-30-blue">
 <img alt="total-clone" src="https://img.shields.io/badge/clone-1-blue">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nach131/libft">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nach131/libft">
